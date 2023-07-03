@@ -1,0 +1,6 @@
+Client:Sofia Email:sofia@gmail.com Service:Washing Date:25/10/2023 Time:14:16 Duration:30min
+Client:Margarida Email:margarida@gmail.com Service:Maintenance Date:25/10/2023 Time:12:27 Duration:60min
+Client:Diogo Email:diogo@gmail.com Service:Maintenance Date:15/3/2023 Time:13:35 Duration:60min
+Client:Nuno Email:nuno@gmail.com Service:Washing Date:18/9/2023 Time:12:10 Duration:30min
+Client:Nuno Email:nuno@gmail.com Service:Washing Date:17/9/2023 Time:14:50 Duration:30min
+Client:Nuno Email:nuno@gmail.com Service:Washing Date:20/9/2023 Time:14:23 Duration:30min
