@@ -1,0 +1,4 @@
+Client:Sofia Email:yankoavsofia@gmail.com Service:Washing Date:25/10/2023 Time:13:12 Duration:30min
+Client:Sofia Email:yankoavsofia@gmail.com Service:Washing Date:25/10/2023 Time:13:12 Duration:30min
+Client:Margaria Email:ma@gmail.com Service:Maintenance Date:15/3/2023 Time:12:12 Duration:60min
+Client:efger Email:eqrwt@gmail.com Service:Washing Date:23/3/2024 Time:15:13 Duration:30min
